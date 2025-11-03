@@ -2,8 +2,7 @@
 
 > **Status:**  Work in Progress
 
-NOT DONE AT ALL, just my first PR so I can get it locked in on the sheet
-Will continue to improve 
+NOT DONE AT ALL, just my first PR so I can get it locked in on the sheet. Will continue to improve but I have one quick snif test in the repo as a .json.
 
 
 ## Overview
