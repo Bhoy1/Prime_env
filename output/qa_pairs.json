@@ -1,0 +1,632 @@
+[
+  {
+    "question": "What public bills and resolutions were introduced on Wednesday, July 2, 2025?",
+    "answer": "22 public bills, H.R. 4271–4292, and 1 resolution, H. Res. 567, were introduced.",
+    "source_file": "1.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many votes did the House record on the motion to concur in the Senate amendment to H.R. 1 (One Big Beautiful Bill Act) (from the congressional record dated Wednesday, July 2, 2025)?",
+    "answer": "The House agreed to the motion to concur by a recorded vote of 218 ayes to 214 noes, Roll No. 190.",
+    "source_file": "1.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the House adjourn (from the congressional record dated Wednesday, July 2, 2025)?",
+    "answer": "The House met at 9 a.m. and adjourned at 2:33 p.m. on Thursday, July 3, 2025.",
+    "source_file": "1.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which representative resigned from which committee (from the congressional record dated Wednesday, July 2, 2025)?",
+    "answer": "Representative Garcia (CA) resigned from the Committee on Homeland Security.",
+    "source_file": "1.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed on Wednesday, July 2, 2025?",
+    "answer": "H. Res. 566, providing for consideration of the Senate amendment to the bill (H.R. 1) to provide for reconciliation pursuant to title II of H. Con. Res. 14 (H. Rept. 119–179); H.R. 3898, to amend the Federal Water Pollution Control Act to make targeted reforms with respect to waters of the United States and other matters, and for other purposes, with an amendment (H. Rept. 119–180); H.R. 261, to amend the National Marine Sanctuaries Act to prohibit requiring an authorization for the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have previously been authorized by a Federal or State agency, with amendments (H. Rept. 119–181); H.R. 900, to direct the Director of the United States Geological Survey to establish a program to map zones that are at greater risk of sinkhole formation, and for other purposes, with an amendment (H. Rept. 119–182); H.R. 1043, to direct the Secretary of the Interior to convey certain Federal land in Arizona to La Paz County, Arizona, and for other purposes (H. Rept. 119–183); H.R. 2037, to provide outreach and technical assistance to small providers regarding Open RAN networks, and for other purposes, with an amendment (H. Rept. 119–184); H.R. 3015, to reestablish the National Coal Council in the Department of Energy to provide advice and recommendations to the Secretary of Energy on matters related to coal and the coal industry, and for other purposes (H. Rept. 119–185); and H.R. 3062, to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity, with an amendment (H. Rept. 119–186, Part 1).",
+    "source_file": "1.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced in the Senate on July 17, 2025?",
+    "answer": "Forty-two bills and two resolutions were introduced: S. 2316–2357, and S. Res. 325–326.",
+    "source_file": "10.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many yeas and nays did H.R. 3633 receive when the House passed it?",
+    "answer": "H.R. 3633 passed by a yea-and-nay vote of 294 yeas to 134 nays, Roll No. 199.",
+    "source_file": "10.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn on Thursday, July 17, 2025?",
+    "answer": "The Senate convened at 11 a.m. and adjourned at 6:18 p.m., until 3 p.m. on Monday, July 21, 2025.",
+    "source_file": "10.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Representative resigned, from which district, and when did the resignation take effect (from the congressional record dated Thursday, July 17, 2025)?",
+    "answer": "Representative Green resigned as Representative for the Seventh Congressional District of Tennessee, effective July 20, 2025, at 11:59 p.m.",
+    "source_file": "10.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were reported in the Senate and what are their report numbers (from the congressional record dated Thursday, July 17, 2025)?",
+    "answer": "H.R. 3944, making appropriations for military construction, the Department of Veterans Affairs, and related agencies for FY2026 (S. Rept. No. 119–43); S. 2354, Commerce, Justice, Science, and Related Agencies appropriations for FY2026 (S. Rept. No. 119–44); and S. 2342, to authorize appropriations for fiscal year 2026 for intelligence and intelligence-related activities of the U.S. Government.",
+    "source_file": "10.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were introduced in the Senate on July 21, 2025?",
+    "answer": "Eleven bills and four resolutions were introduced: S. 2358–2368, and S. Res. 327–330.",
+    "source_file": "11.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many public bills and private bills were introduced in the House on July 21, 2025?",
+    "answer": "30 public bills (H.R. 4548–4551, 4554–4579) and 1 private bill (H.R. 4580) were introduced.",
+    "source_file": "11.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn on Monday, July 21, 2025?",
+    "answer": "The Senate convened at 3 p.m. and adjourned at 6:39 p.m., until 10 a.m. on Tuesday, July 22, 2025.",
+    "source_file": "11.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Representative was appointed to act as Speaker pro tempore for the House that day?",
+    "answer": "Representative Taylor was appointed to act as Speaker pro tempore for today.",
+    "source_file": "11.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed in the House on July 21, 2025?",
+    "answer": "H. Res. 598 (H. Rept. 119–209); H.R. 1917 (H. Rept. 119–210); H.R. 3937 (H. Rept. 119–211, Part 1); H.R. 4552 (H. Rept. 119–212); and H.R. 4553 (H. Rept. 119–213).",
+    "source_file": "11.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced in the Senate on Monday, July 21, 2025?",
+    "answer": "Eleven bills and four resolutions were introduced: S. 2358–2368 and S. Res. 327–330.",
+    "source_file": "12.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "By what vote did the Senate agree to close further debate on the nomination of Terrance Cole to be Administrator of Drug Enforcement?",
+    "answer": "The Senate agreed to the motion to close further debate by 44 yeas to 43 nays (Vote No. EX. 418).",
+    "source_file": "12.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn on July 21, 2025, and when was it scheduled to reconvene?",
+    "answer": "The Senate adjourned at 6:39 p.m. on July 21, 2025, and was scheduled to reconvene at 10 a.m. on Tuesday, July 22, 2025.",
+    "source_file": "12.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Representative was appointed to act as Speaker pro tempore for the House on Monday, July 21, 2025?",
+    "answer": "The Speaker appointed Representative Taylor to act as Speaker pro tempore for the day.",
+    "source_file": "12.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed in the House on July 21, 2025?",
+    "answer": "Reports filed were: H. Res. 598 (H. Rept. 119–209); H.R. 1917, with an amendment (H. Rept. 119–210); H.R. 3937, with an amendment (H. Rept. 119–211, Part 1); H.R. 4552 (H. Rept. 119–212); and H.R. 4553 (H. Rept. 119–213).",
+    "source_file": "12.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced in the Senate on July 22, 2025?",
+    "answer": "Eighteen bills and seven resolutions were introduced: S. 2369–2386, S.J. Res. 63–67, and S. Res. 331–332.",
+    "source_file": "13.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "By what vote did the Senate agree to close further debate on the motion to proceed to consideration of H.R. 3944?",
+    "answer": "By 91 yeas to 7 nays (Vote No. 423), Senate agreed to the motion to close further debate on the motion to proceed to consideration of the bill.",
+    "source_file": "13.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn and when will it reconvene (from the congressional record dated Tuesday, July 22, 2025)?",
+    "answer": "Senate convened at 10 a.m. and adjourned at 8 p.m., until 10 a.m. on Wednesday, July 23, 2025.",
+    "source_file": "13.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nominee did the Senate begin consideration of to be United States Circuit Judge for the Third Circuit?",
+    "answer": "Senate began consideration of the nomination of Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit.",
+    "source_file": "13.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What report was filed in the House on Tuesday, July 22, 2025 and which bill did it concern?",
+    "answer": "H. Rept. 119–214 was filed on H.R. 4275, to authorize appropriations for the Coast Guard, to establish the Secretary of the Coast Guard, and for other purposes, with an amendment.",
+    "source_file": "13.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were introduced on Wednesday, July 23, 2025?",
+    "answer": "Thirty-eight bills and four resolutions were introduced: S. 2387–2424, S.J. Res. 68, S. Res. 333–334, and S. Con. Res. 19.",
+    "source_file": "14.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken on Wednesday, July 23, 2025?",
+    "answer": "Eight record votes were taken today. (Total--433)",
+    "source_file": "14.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn (from the congressional record dated Wednesday, July 23, 2025)?",
+    "answer": "The Senate adjourned at 9:11 p.m., until 10 a.m. on Thursday, July 24, 2025.",
+    "source_file": "14.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Representative was appointed to act as Speaker pro tempore for the day?",
+    "answer": "Representative Kelly (MS) was appointed to act as Speaker pro tempore for the day.",
+    "source_file": "14.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed in the House on Wednesday, July 23, 2025?",
+    "answer": "There were no reports filed today.",
+    "source_file": "14.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced on Thursday, July 24, 2025?",
+    "answer": "Forty-three bills and five resolutions were introduced: S. 2425–2467, S.J. Res. 69, and S. Res. 335–338.",
+    "source_file": "15.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many votes did the motion to close further debate on the nomination of Emil J. Bove III receive (from the congressional record dated Thursday, July 24, 2025)?",
+    "answer": "The motion to close further debate on Emil J. Bove III was agreed to by 50 yeas to 48 nays (Vote No. EX. 437).",
+    "source_file": "15.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn on July 24, 2025?",
+    "answer": "The Senate adjourned at 3:02 p.m. on Thursday, July 24, 2025, until 3 p.m. on Monday, July 28, 2025.",
+    "source_file": "15.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nomination was withdrawn and for which position?",
+    "answer": "The nomination of Alina Habba, of New Jersey, to be United States Attorney for the District of New Jersey for the term of four years was withdrawn; it had been sent to the Senate on June 30, 2025.",
+    "source_file": "15.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were reported by the Senate and what are their report numbers (from the congressional record dated Thursday, July 24, 2025)?",
+    "answer": "S. 2431, making appropriations for the Department of the Interior, environment, and related agencies for FY2026 (S. Rept. No. 119–46), and S. 2465, making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for FY2026 (S. Rept. No. 119–47), were reported.",
+    "source_file": "15.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What public bills, private bill, and resolutions were introduced on July 25, 2025?",
+    "answer": "23 public bills, H.R. 4755–4777; 1 private bill, H.R. 4778; and 5 resolutions, H. Res. 611–615, were introduced.",
+    "source_file": "16.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many Yea and Nay votes and Recorded votes were there on July 25, 2025?",
+    "answer": "There were no Yea and Nay votes, and there were no Recorded votes (zero).",
+    "source_file": "16.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the House adjourn on July 25, 2025?",
+    "answer": "The House adjourned at 11:02 a.m. on July 25, 2025.",
+    "source_file": "16.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which representative was appointed to act as Speaker Pro Tempore for the day?",
+    "answer": "Representative Mike Haridopolos was appointed to act as Speaker Pro Tempore for the day.",
+    "source_file": "16.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed on July 25, 2025?",
+    "answer": "H.R. 940; to amend the Federal Financial Institutions Examination Council Act of 1978 ... with an amendment (H. Rept. 119–216); and H.R. 4779; making appropriations for National Security, Department of State, and Related Programs for the fiscal year ending September 30, 2026 (H. Rept. 119–217) were filed.",
+    "source_file": "16.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced on Monday, July 28, 2025?",
+    "answer": "Twenty-two bills and two resolutions were introduced: S. 2468–2489, S.J. Res. 70, and S. Res. 339.",
+    "source_file": "17.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken on July 28, 2025, and what was the total listed?",
+    "answer": "Three record votes were taken today. (Total--440)",
+    "source_file": "17.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn on July 28, 2025?",
+    "answer": "The Senate adjourned at 8:08 p.m., until 10 a.m. on Tuesday, July 29, 2025.",
+    "source_file": "17.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nominee was confirmed on July 28, 2025, and what was the vote count?",
+    "answer": "David Wright, of South Carolina, to be a Member of the Nuclear Regulatory Commission for the term of five years expiring June 30, 2030, was confirmed by 50 yeas to 39 nays (Vote No. EX. 439).",
+    "source_file": "17.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which measure was reported with S. Rept. No. 119–48 and what does it require?",
+    "answer": "S. 580, to require the Secretary of Commerce to provide training and guidance relating to human rights abuses, including such abuses perpetrated against the Uyghur population by the Government of the People's Republic of China. (S. Rept. No. 119–48)",
+    "source_file": "17.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were introduced in the Senate on Tuesday, July 29, 2025?",
+    "answer": "Thirty-nine bills and six resolutions were introduced: S. 2490–2528, and S. Res. 340–345.",
+    "source_file": "18.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken on July 29, 2025, and what was the total number of record votes reported?",
+    "answer": "Eight record votes were taken that day (Total--448).",
+    "source_file": "18.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn on July 29, 2025?",
+    "answer": "The Senate adjourned at 9:21 p.m. on July 29, 2025, until 10 a.m. on Wednesday, July 30, 2025.",
+    "source_file": "18.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Who was appointed to act as Speaker Pro Tempore in the House on July 29, 2025?",
+    "answer": "The Honorable Robert J. Wittman was appointed to act as Speaker Pro Tempore.",
+    "source_file": "18.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed in the House on July 29, 2025?",
+    "answer": "Reports filed: Committee on Ethics, 'In the Matter of Allegations Relating to Representative Mike Kelly' (H. Rept. 119–218) and 'In the Matter of Allegations Relating to Representative Alexandria Ocasio-Cortez' (H. Rept. 119–219); H.R. 1860 (H. Rept. 119–220); and H.R. 1107 (H. Rept. 119–221).",
+    "source_file": "18.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced on Wednesday, July 30, 2025?",
+    "answer": "Thirty-two bills and four resolutions were introduced: S. 2529–2560, and S. Res. 346–349.",
+    "source_file": "19.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "By what vote did the Senate fail to agree to the motion to discharge S.J. Res. 41 (motion to disapprove export of defense articles to Israel)?",
+    "answer": "By 27 yeas to 70 nays (Vote No. EX. 454).",
+    "source_file": "19.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn and when was it scheduled to reconvene (from the congressional record dated Wednesday, July 30, 2025)?",
+    "answer": "Senate adjourned at 10:45 p.m., until 10 a.m. on Thursday, July 31, 2025 (it convened at 10 a.m. that day).",
+    "source_file": "19.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nominations were withdrawn and what positions had they been sent to the Senate for?",
+    "answer": "David Eisner, of New York, to be an Assistant Secretary of Energy (sent Feb 11, 2025), and Jason De Sena Trennert, of New York, to be an Assistant Secretary of the Treasury (sent Feb 11, 2025).",
+    "source_file": "19.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were reported by the Senate (Measures Reported section) (from the congressional record dated Wednesday, July 30, 2025)?",
+    "answer": "S. 1199, to extend the statute of limitations for fraud under certain pandemic programs, with an amendment in the nature of a substitute; and S. 2232, to expand the surety bond program under the Small Business Investment Act of 1958, with an amendment in the nature of a substitute.",
+    "source_file": "19.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What unanimous-consent agreement was reached regarding the Senate schedule change?",
+    "answer": "A unanimous-consent agreement provided that the order of Tuesday, July 1, 2025 with respect to the Senate's reconvening be modified; the Senate be in session on Monday, July 7, 2025, at 10:15 a.m., for a pro forma session only; the existing order for the Senate to reconvene on Monday, July 7, 2025 now occur on Tuesday, July 8, 2025; and that all members of the Republican Caucus have signing authority through Tuesday, July 8, 2025.",
+    "source_file": "2.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How long did the Senate's pro forma session on July 3, 2025 last?",
+    "answer": "The Senate met at 12 p.m. and adjourned at 12:01:24 p.m., a duration of 1 minute and 24 seconds.",
+    "source_file": "2.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When will the House meet in Pro Forma session?",
+    "answer": "The House will meet in Pro Forma session at 10 a.m. on Monday, July 7, 2025.",
+    "source_file": "2.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which members were given signing authority and through what date?",
+    "answer": "All members of the Republican Caucus have signing authority through Tuesday, July 8, 2025.",
+    "source_file": "2.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Were any committee, hearing, or joint committee meetings held on July 3, 2025?",
+    "answer": "No committee meetings were held; no hearings were held; and no joint committee meetings were held.",
+    "source_file": "2.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced on Thursday, July 31, 2025?",
+    "answer": "Seventy-nine bills and fifteen resolutions were introduced: S. 2561–2639, S.J. Res. 71–72, and S. Res. 350–362.",
+    "source_file": "20.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken on Thursday, July 31, 2025?",
+    "answer": "Ten record votes were taken today (Total--467).",
+    "source_file": "20.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn (from the congressional record dated Thursday, July 31, 2025)?",
+    "answer": "The Senate adjourned at 10:04 p.m. on Thursday, July 31, 2025, until 10 a.m. on Friday, August 1, 2025.",
+    "source_file": "20.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Senators were appointed to the Commission on Security and Cooperation in Europe (Helsinki)?",
+    "answer": "Senators Wicker (Chairman), Boozman, Tillis, Rounds, and Britt were appointed to the Commission on Security and Cooperation in Europe (Helsinki).",
+    "source_file": "20.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were reported and what are their Senate Report numbers (from the congressional record dated Thursday, July 31, 2025)?",
+    "answer": "S. 2572 (S. Rept. No. 119–52); S. 390 (S. Rept. No. 119–53); S. 761 (S. Rept. No. 119–54); S. 2587 (S. Rept. No. 119–55); and S. 161 (S. Rept. No. 119–56).",
+    "source_file": "20.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What public bills were introduced on Monday, July 7, 2025?",
+    "answer": "Twelve public bills, H.R. 4293–4304, were introduced.",
+    "source_file": "3.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How long did the Senate pro forma session last?",
+    "answer": "The Senate pro forma session lasted 30 seconds, meeting at 10:15:02 a.m. and adjourning at 10:15:32 a.m. on Monday, July 7, 2025.",
+    "source_file": "3.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the House adjourn (from the congressional record dated Monday, July 7, 2025)?",
+    "answer": "The House adjourned at 10:02 a.m. on Monday, July 7, 2025.",
+    "source_file": "3.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nomination will the Senate vote to invoke cloture on at approximately 5:30 p.m. on Tuesday, July 8?",
+    "answer": "The Senate will vote to invoke cloture on the nomination of Preston Griffith, of Virginia, to be Under Secretary of Energy.",
+    "source_file": "3.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed on Monday, July 7, 2025?",
+    "answer": "There were no reports filed today.",
+    "source_file": "3.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced on Daily Digest/Highlights + Senate; Congressional Record Vol. 171, No. 117?",
+    "answer": "Seven bills and four resolutions were introduced: S. 2208-2214, and S. Res. 313-316.",
+    "source_file": "4.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many votes did the Senate record on the motion to close further debate on the nomination of Preston Griffith, and what was the vote count (from the congressional record dated Daily Digest/Highlights + Senate; Congressional Record Vol. 171, No. 117)?",
+    "answer": "The Senate agreed to the motion by 47 yeas to 41 nays (Vote No. EX. 373).",
+    "source_file": "4.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn and when will it next convene (from the congressional record dated Daily Digest/Highlights + Senate; Congressional Record Vol. 171, No. 117)?",
+    "answer": "Senate adjourned at 6:57 p.m. and will convene at 10 a.m. on Wednesday, July 9, 2025.",
+    "source_file": "4.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nominee will have a cloture vote on Thursday, July 10, 2025?",
+    "answer": "Jonathan Gould, of Virginia, to be Comptroller of the Currency for a term of five years.",
+    "source_file": "4.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many written reports were filed in the Senate and in the House?",
+    "answer": "A total of 33 written reports were filed in the Senate and 178 reports were filed in the House.",
+    "source_file": "4.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills were introduced on Wednesday, July 9, 2025?",
+    "answer": "Twenty bills were introduced: S. 2215–2234.",
+    "source_file": "5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken on Wednesday, July 9, 2025?",
+    "answer": "Six record votes were taken today (Total--380).",
+    "source_file": "5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn (from the congressional record dated Wednesday, July 9, 2025)?",
+    "answer": "The Senate adjourned at 8:35 p.m. on July 9, 2025, until 10 a.m. on Thursday, July 10, 2025.",
+    "source_file": "5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Senators were appointed to the Congressional-Executive Commission on the People's Republic of China?",
+    "answer": "Senator Sullivan (Chairman) and Senator Cotton were appointed to the Congressional-Executive Commission on the People's Republic of China.",
+    "source_file": "5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed and their report numbers (from the congressional record dated Wednesday, July 9, 2025)?",
+    "answer": "Special Report Age of Fraud: Scams Facing Our Nation's Seniors (S. Rept. No. 119–35) and S. 259, with committee report S. Rept. No. 119–36.",
+    "source_file": "5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills were introduced on Wednesday, July 9, 2025?",
+    "answer": "Twenty bills were introduced, S. 2215–2234.",
+    "source_file": "6.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "By what vote was Preston Griffith confirmed?",
+    "answer": "Preston Griffith was confirmed by 54 yeas to 43 nays (Vote No. EX. 375).",
+    "source_file": "6.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn (from the congressional record dated Wednesday, July 9, 2025)?",
+    "answer": "The Senate adjourned at 8:35 p.m. on July 9, 2025, and will reconvene at 10 a.m. on Thursday, July 10, 2025.",
+    "source_file": "6.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Senators were appointed to serve on the Congressional-Executive Commission on the People's Republic of China?",
+    "answer": "Senator Sullivan (Chairman) and Senator Cotton were appointed to serve on the Congressional-Executive Commission on the People's Republic of China.",
+    "source_file": "6.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed or reported (from the congressional record dated Wednesday, July 9, 2025)?",
+    "answer": "A Special Report entitled \"Age of Fraud: Scams Facing Our Nation's Seniors\" (S. Rept. No. 119–35) and S. 259, to direct the Federal Communications Commission to publish a list of entities... (S. Rept. No. 119–36) were reported.",
+    "source_file": "6.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were introduced in the Senate on July 10, 2025?",
+    "answer": "Twenty-nine bills and six resolutions were introduced: S. 2235–2263, S.J. Res. 61–62, S. Res. 317–319, and S. Con. Res. 16.",
+    "source_file": "7.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken on Thursday, July 10, 2025?",
+    "answer": "Three record votes were taken today. (Total--383)",
+    "source_file": "7.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn and when will it next convene (from the congressional record dated Thursday, July 10, 2025)?",
+    "answer": "The Senate adjourned at 2:41 p.m. on July 10, 2025, and will convene at 3 p.m. on Monday, July 14, 2025.",
+    "source_file": "7.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which nomination was confirmed and what was the confirmation vote?",
+    "answer": "Jonathan Gould, of Virginia, was confirmed to be Comptroller of the Currency for a term of five years by 50 yeas to 45 nays (Vote No. EX. 383).",
+    "source_file": "7.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed in the House on Thursday, July 10, 2025?",
+    "answer": "Reports filed include: H. Rept. 119–187 on H.R. 131; H. Rept. 119–188 on H.R. 410; H. Rept. 119–189, Part 1 on H.R. 504; H. Rept. 119–190 on H.R. 1729; H. Rept. 119–191 on H.R. 2316; H. Rept. 119–192 on H.R. 3179; H. Rept. 119–193 on H.R. 3657; H. Rept. 119–194 on H.R. 1717; H. Rept. 119–195 on H.R. 1618; H. Rept. 119–196, Part 1 on H.R. 1765; H. Rept. 119–197 on H.R. 820; and H. Rept. 119–198 on H.R. 1327.",
+    "source_file": "7.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were introduced in the Senate on July 14, 2025?",
+    "answer": "Ten bills and two resolutions were introduced: S. 2264–2273, S. Res. 320, and S. Con. Res. 17.",
+    "source_file": "8.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "By what margin did the Senate agree to close further debate on the nomination of Luke Pettit?",
+    "answer": "By 60 yeas to 28 nays (Vote No. EX. 385).",
+    "source_file": "8.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate convene and adjourn on July 14, 2025?",
+    "answer": "The Senate convened at 3 p.m. and adjourned at 6:53 p.m., until 10 a.m. on Tuesday, July 15, 2025.",
+    "source_file": "8.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which representative was appointed to act as Speaker pro tempore for the House on July 14, 2025?",
+    "answer": "Representative Kim was appointed to act as Speaker pro tempore for today.",
+    "source_file": "8.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What was the vote count for passage of the Understanding Cybersecurity of Mobile Networks Act (H.R. 1709) in the House (from the congressional record dated Monday, July 14, 2025)?",
+    "answer": "H.R. 1709 passed by a 2/3 yea-and-nay vote of 360 yeas to 10 nays, Roll No. 191.",
+    "source_file": "8.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What bills and resolutions were introduced in the Senate on Wednesday, July 16, 2025?",
+    "answer": "Nineteen bills and three resolutions were introduced: S. 2297–2315, S. Res. 323–324, and S. Con. Res. 18.",
+    "source_file": "9.5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many yeas and nays were recorded when the Senate passed H.R. 4, the Rescissions Act?",
+    "answer": "The Senate passed H.R. 4 by 51 yeas to 48 nays (Vote No. 411).",
+    "source_file": "9.5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate convene and adjourn on July 16–17, 2025?",
+    "answer": "The Senate convened at 10 a.m. on Wednesday, July 16, 2025 and adjourned at 2:31 a.m. on Thursday, July 17, 2025, until 11 a.m. on the same day.",
+    "source_file": "9.5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Representative was appointed to act as Speaker pro tempore for the House for this day?",
+    "answer": "The Speaker appointed Representative Stutzman to act as Speaker pro tempore for today.",
+    "source_file": "9.5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What report was filed in the House on Wednesday, July 16, 2025 and what is its report number?",
+    "answer": "A report was filed for H.R. 183, to amend the Federal Lands Recreation Enhancement Act, with amendments (H. Rept. 119–207, Part 1).",
+    "source_file": "9.5.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What measures were introduced in the Senate on July 15, 2025?",
+    "answer": "Twenty-three bills and two resolutions were introduced: S. 2274–2296, and S. Res. 321–322.",
+    "source_file": "9.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "How many record votes were taken in the Senate that day and what was the total number of record votes for the session?",
+    "answer": "Seven record votes were taken today. (Total--392)",
+    "source_file": "9.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "When did the Senate adjourn and when was it scheduled to reconvene (from the congressional record dated Tuesday, July 15, 2025)?",
+    "answer": "The Senate convened at 10:00 a.m. and adjourned at 10:45 p.m., until 10:00 a.m. on Wednesday, July 16, 2025.",
+    "source_file": "9.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "Which Representative was appointed to act as Speaker pro tempore for the House on that day?",
+    "answer": "Representative Moore (UT) was appointed to act as Speaker pro tempore for the day.",
+    "source_file": "9.txt",
+    "prompt_style": "detailed"
+  },
+  {
+    "question": "What reports were filed in the House on July 15, 2025?",
+    "answer": "Reports filed: H. Res. 580 (H. Rept. 119–199); H.R. 3486 (H. Rept. 119–200); H.R. 225 (H. Rept. 119–201); H.R. 2835 (H. Rept. 119–202); H.R. 3645 (H. Rept. 119–203); H.R. 3672 (H. Rept. 119–204); H.R. 3709 (H. Rept. 119–205); and H.R. 3716 (H. Rept. 119–206).",
+    "source_file": "9.txt",
+    "prompt_style": "detailed"
+  }
+]
