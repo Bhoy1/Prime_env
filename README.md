@@ -2,6 +2,9 @@
 
 > **Status:**  Work in Progress
 
+NOT DONE AT ALL, just my first PR so I can get it locked in on the sheet
+Will continue to improve 
+
 
 ## Overview
 
@@ -115,7 +118,6 @@ The agent has access to three tools:
 6. Score: 1.0 if correct, 0.0 if incorrect
 
 ### 4. Scoring System
-- **Tool Rubric**: Tracks tool usage (weight 0.0 by default)
 - **Judge Rubric**: LLM judge evaluates correctness (weight 1.0)
 - **Max Score**: 1.0 (correct) or 0.0 (incorrect)
 
@@ -145,7 +147,6 @@ Respond either "yes" or "no" only.
 
 ## Development Status
 
-**Current Status**: 90% accuracy on 10 congressional Q&A evaluation for one month of congressional daily digest. System successfully retrieves and answers questions about bills, votes, reports, and proceedings from Congressional Records. Will continue to expand and test more and build out.
 
 ### Type of Change
 - [x] New environment implementation
