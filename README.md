@@ -99,7 +99,7 @@ await run_single_example(model_name="gpt-5-mini")
 
 ### 1. Data Loading & Chunking
 - Loads Congressional Records from text files
-- Chunks long documents (~1500 tokens per chunk) to fit embedding limits
+- Chunks long documents to fit embedding limits
 - Stores chunks in ChromaDB with metadata (date, record_id)
 
 ### 2. Agent Tools
