@@ -18,6 +18,7 @@ This project evaluates AI agents' ability to search, retrieve, and answer questi
 -  **90% Accuracy** (9/10 correct)
 -  Average Reward: 0.9 / 1.0
 - Successfully answers questions about bills, votes, reports, and congressional proceedings
+- Currently just tested on the month of July Daily Digest and I just did 10 test questions here. 
 - Will expand to more questions, various levels of questions, etc
 
 ## Project Structure
