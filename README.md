@@ -2,7 +2,6 @@
 
 > **Status:**  Work in Progress
 
-A RAG-based evaluation system for testing AI agents on question-answering tasks using Congressional Records data.
 
 ## Overview
 
@@ -10,7 +9,6 @@ This project evaluates AI agents' ability to search, retrieve, and answer questi
 - **ChromaDB** for semantic search and vector storage
 - **OpenAI Embeddings** for document chunking and retrieval
 - **Verifiers Framework** for agent evaluation and scoring
-- **Judge LLM** to assess answer correctness
 
 ## Current Results
 
@@ -18,6 +16,7 @@ This project evaluates AI agents' ability to search, retrieve, and answer questi
 -  **90% Accuracy** (9/10 correct)
 -  Average Reward: 0.9 / 1.0
 - Successfully answers questions about bills, votes, reports, and congressional proceedings
+- Will expand to more questions, various levels of questions, etc
 
 ## Project Structure
 
@@ -26,9 +25,8 @@ This project evaluates AI agents' ability to search, retrieve, and answer questi
 ├── congressional_eval.py      # Main evaluation environment setup
 ├── run_evaluation.py           # Run evaluations and compare models
 ├── fix_questions.py            # Add date context to vague questions
-├── tes.py                      # Q&A pair generation from records
 ├── .env                        # Configuration (API keys, models)
-├── data/                       # Congressional record text files
+├── data/                       # Congressional record files (Month of July)
 ├── output/
 │   └── qa_pairs.json          # Generated Q&A pairs
 └── .chroma_db/                # Vector database storage
