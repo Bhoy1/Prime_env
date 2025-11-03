@@ -221,34 +221,24 @@ tqdm
 ## Development Status
 
 ### Type of Change
-- [x] New environment implementation
+- [ ] New environment implementation
 - [ ] Update to existing environment
 - [ ] Other repo maintenance (docs, tests)
 
 ### Evaluation
-- [x] Evaluation results included with at least 5 examples (`evaluation_results_gpt-5-mini.json`)
-- [x] Results show rewards > 0 (90% accuracy, 9/10 correct)
-- [x] Rollout logic and reward logic behaving as expected
-- [ ] Pre-commit hooks installed
-- [ ] Code passes style rules (`ruff check --fix .`)
-- [ ] Tests implemented and passing (`pytest`)
+- [ ] I have included an outputs/ folder, created via uv run vf-eval -s <slug> -m <model>, with at least 5 examples and 3 rollouts per example (the defaults) with a model of my choice, which obtains rewards greater than 0 at least some of the time.
+- [ ] I have inspected the outputs and confirm that the both the rollout logic and reward logic is behaving as expected.
+- [ ] I have installed the pre-commit hooks.
+- [ ] My code passes style rules (uv run ruff check --fix .) + tests (uv run pytest).
 
 ### Checklist
-- [x] Code follows best practices for environment development
-- [x] Implementation uses verifiers framework properly
-- [x] Data preparation logic encapsulated in `load_environment()`
-- [x] Loads data from original sources (local congressional records)
-- [x] Self-review of code completed
-- [x] Manual cleanup pass performed (removed LLM "slop")
-- [x] Code commented appropriately (not excessively)
-- [x] Environment documented with README
-
-### Known Issues / TODO
-- [ ] Pre-commit hooks not yet configured
-- [ ] Style checking with ruff not yet implemented
-- [ ] Unit tests not yet written
-- [ ] One edge case failing (H.R. 3633 vote question)
-- [ ] Full dataset evaluation pending (currently 10 examples)
+- [ ] My code follows the best practices for verifiers environment development as outlined in AGENTS.md.
+- [ ] If directly adapting an existing implementation (e.g. a well-known benchmark), my environment declares and imports (rather than reimplements) the source code.
+- [ ] If directly adapting an existing implementation, my implementation encapsulates all data preparation logic within load_environment using original sources directly (rather than e.g. depending on a personally-uploaded custom HF dataset).
+- [ ] I have performed a self-review of my own code.
+- [ ] If heavy LLM assistance was used (or if N/A), I have performed a manual pass to clean up any "slop" and ensure that implementation choices are sensible and clean (e.g. no unnecessary defensive programming).
+- [ ] I have commented my code, particularly in hard-to-understand areas (but not excessively).
+- [ ] I have documented my environment implementation appropriately.
 
 ## Contributing
 
