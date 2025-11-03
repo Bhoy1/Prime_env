@@ -218,6 +218,38 @@ tqdm
 
 [Your License Here]
 
+## Development Status
+
+### Type of Change
+- [x] New environment implementation
+- [ ] Update to existing environment
+- [ ] Other repo maintenance (docs, tests)
+
+### Evaluation
+- [x] Evaluation results included with at least 5 examples (`evaluation_results_gpt-5-mini.json`)
+- [x] Results show rewards > 0 (90% accuracy, 9/10 correct)
+- [x] Rollout logic and reward logic behaving as expected
+- [ ] Pre-commit hooks installed
+- [ ] Code passes style rules (`ruff check --fix .`)
+- [ ] Tests implemented and passing (`pytest`)
+
+### Checklist
+- [x] Code follows best practices for environment development
+- [x] Implementation uses verifiers framework properly
+- [x] Data preparation logic encapsulated in `load_environment()`
+- [x] Loads data from original sources (local congressional records)
+- [x] Self-review of code completed
+- [x] Manual cleanup pass performed (removed LLM "slop")
+- [x] Code commented appropriately (not excessively)
+- [x] Environment documented with README
+
+### Known Issues / TODO
+- [ ] Pre-commit hooks not yet configured
+- [ ] Style checking with ruff not yet implemented
+- [ ] Unit tests not yet written
+- [ ] One edge case failing (H.R. 3633 vote question)
+- [ ] Full dataset evaluation pending (currently 10 examples)
+
 ## Contributing
 
 This is a work in progress. Contributions and suggestions welcome!
